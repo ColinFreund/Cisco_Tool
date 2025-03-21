@@ -1,0 +1,8 @@
+{
+  "rules": [
+    "DO NOT run any of the Python code, I will run the Python part in my Anaconda!",
+    "Give the user instructions on how to run it, including directory and file name.",
+    "DO NOT run the WEB server, I will do this!",
+    "Give me the instructions on how and where to run it, ONLY!"
+  ]
+}
